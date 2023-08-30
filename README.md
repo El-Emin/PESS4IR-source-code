@@ -3,10 +3,10 @@ Source code PESS4IR approach
 
 1) EL4DT (mention detection and candidate selection methods):
    
-1.1) For Robust collection: Usage: entityLinkingDocumentText.py [path/to/folder/]
+   1.1) For Robust collection: Usage: entityLinkingDocumentText.py [path/to/folder/]
     + [path/to/folder/]: the path to the folder in which the Robust collection is located the where each doc is splited in paragraghs (and is stored as 'DocID' fisrt line of a document and its paragraphs in the folowing lines (each paragraph in a line)).
     
-1.2) For MSMARCO collection Usage: entityLinkingDocumentText.py [path/to/folder/] [-msDv1/-msDv2/msTv2/-msTv1]
+   1.2) For MSMARCO collection Usage: entityLinkingDocumentText.py [path/to/folder/] [-msDv1/-msDv2/msTv2/-msTv1]
     + [-msDv1/-msDv2/msTv2/-msTv1]: for MSMARCO versions.
 
 2) The disambiguation method of EL4DT and the indexing method: Usage: entityLinkingIndexing.py [ELinkedCollectionFileName] [path/to/Folder/]
