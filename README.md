@@ -22,3 +22,10 @@ Source code PESS4IR approach
 
 4) Execution Requirements:
   - At least python 3.6.8
+
+Citation
+If you use the resources presented in this repository, please cite:
+Sidi, M. L., & Gunal, S. (2023). A Purely Entity-Based Semantic Search Approach for Document Retrieval. Applied Sciences, 13(18), 10285.
+
+Contact
+In case of questions, feel free to contact ML Sidi at mlsidi@ogr.eskisehir.edu.tr.
